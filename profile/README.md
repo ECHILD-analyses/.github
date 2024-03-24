@@ -16,13 +16,11 @@ working with
 [NHS England](https://www.england.nhs.uk/) and the 
 [Office for National Statistics](https://www.ons.gov.uk/).
 
-### Contents of this organisation
-
 All researchers using the [ECHILD research database](https://www.echild.ac.uk) are encouraged to share their analytical code. 
 This ECHILD Analyses organisation is (will be) a compilation of (forked) repositories of analytical code 
 submitted by ECHILD research database users.
 
-### ✨ Contributing ✨
+## ✨ Contributing ✨
 
 We hope all ECHILD research database users will contribute at least their final analysis code.
 
@@ -49,7 +47,7 @@ the ECHIILD team. <br/>Please include all of the following information in your e
     1. your ECHILD project title and reference
     1. a link (URL) to your repository.
 
-### Disclaimer
+## Disclaimer
 
 The ECHILD project team and its funders are not responsible for the accuracy or 
 appropriateness of shared code or analyses. Any views expressed within the forked repositories 
