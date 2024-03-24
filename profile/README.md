@@ -16,10 +16,10 @@ working with
 [NHS England](https://www.england.nhs.uk/) and the 
 [Office for National Statistics](https://www.ons.gov.uk/).
 
-### Contents of this GitHub organisation
+### Contents of this organisation
 
 All researchers using the [ECHILD research database](https://www.echild.ac.uk) are encouraged to share their analytical code. The 
-ECHILD Analyses GitHub Organisation is a compilation of (forked) repositories of analytical code 
+ECHILD Analyses organisation is a compilation of (forked) repositories of analytical code 
 submitted by ECHILD research database users.
 
 ### ✨ Contributing ✨
@@ -55,6 +55,6 @@ The ECHILD project team and its funders are not responsible for the accuracy or
 appropriateness of shared code or analyses. Any views expressed within the forked repositories 
 are those of the author(s) and not necessarily those of the ECHILD project team or its funders.
 
-Contributors to the ECHILD Analyses GitHub Organisation have agreed to abide by the
+Contributors to the ECHILD Analyses organisation have agreed to abide by the
 [Community Guidelines](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md). These Guidelines also detail our 
 reporting and complaints process (see [Enforcement](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md#enforcement)).
