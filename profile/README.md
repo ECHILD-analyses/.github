@@ -22,6 +22,33 @@ All researchers using the [ECHILD research database](https://www.echild.ac.uk) a
 ECHILD Analyses GitHub Organisation is a collation of (forked) repositories of analytical code 
 submitted by ECHILD research database users.
 
+### ✨ Contributing ✨
+
+We hope all ECHILD research database users will contribute at least their final analysis code.
+
+To contibute:
+
+1. Request your
+[code files as outputs](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/gettingyourresearchoutputsapproved#requesting-outputs) 
+from the ONS SRS team.
+1. Make your code available (publicly) in its own repository under your or your organisation's GitHub account.
+    * *You should provide documentation about your project alongside the code within the repository, preferable
+    in the form of a `README` file.*
+    * *We recommend reading the [ONS](https://www.ons.gov.uk)'s 
+    [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance).*
+    * *You can find a **template analysis repository** in the [UCL-ECHILD organisation](https://github.com/UCL-ECHILD), though you
+    need not use this.*
+1. Please include in your repository a license that permits redistribution of your code, e.g. a
+[MIT License](https://choosealicense.com/licenses/mit/) or
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/),
+for help visit [choosealicense.com](https://choosealicense.com).
+1. As with all outputs derived from the ECHILD research database, please email <ich.echild@ucl.ac.uk> to notify
+the ECHIILD team. Please include all of the following information in your email:
+
+    1. your name and affiliation
+    1. your ECHILD project title and reference
+    1. a link (URL) to your repository.
+
 ### Disclaimer
 
 The ECHILD project team and its funders are not responsible for the accuracy or 
