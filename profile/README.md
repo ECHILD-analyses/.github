@@ -43,7 +43,7 @@ from the ONS SRS team.
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/),
 for help visit [choosealicense.com](https://choosealicense.com).
 1. As with all outputs derived from the ECHILD research database, please email <ich.echild@ucl.ac.uk> to notify
-the ECHIILD team. Please include all of the following information in your email:
+the ECHIILD team. <br/>Please include all of the following information in your email:
 
     1. your name and affiliation
     1. your ECHILD project title and reference
