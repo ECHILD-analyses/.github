@@ -31,7 +31,7 @@ To contibute:
 1. Request your
 [code files as outputs](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/gettingyourresearchoutputsapproved#requesting-outputs) 
 from the ONS SRS team.
-1. Make your code available (publicly) in its own repository under your or your organisation's GitHub account.
+1. Make your code available (publicly) in its own repository under your own or your organisation's GitHub account.
     * *You should provide documentation about your project alongside the code, preferable in the form of a
     `README` file.*
     * *We recommend reading the [ONS](https://www.ons.gov.uk)'s 
