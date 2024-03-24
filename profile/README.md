@@ -18,8 +18,8 @@ working with
 
 ### Contents of this organisation
 
-All researchers using the [ECHILD research database](https://www.echild.ac.uk) are encouraged to share their analytical code. The 
-ECHILD Analyses organisation is a compilation of (forked) repositories of analytical code 
+All researchers using the [ECHILD research database](https://www.echild.ac.uk) are encouraged to share their analytical code. 
+This ECHILD Analyses organisation is (will be) a compilation of (forked) repositories of analytical code 
 submitted by ECHILD research database users.
 
 ### ✨ Contributing ✨
