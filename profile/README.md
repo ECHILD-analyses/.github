@@ -19,7 +19,7 @@ working with
 ### Contents of this GitHub organisation
 
 All researchers using the [ECHILD research database](https://www.echild.ac.uk) are encouraged to share their analytical code. The 
-ECHILD Analyses GitHub Organisation is a collation of (forked) repositories of analytical code 
+ECHILD Analyses GitHub Organisation is a compilation of (forked) repositories of analytical code 
 submitted by ECHILD research database users.
 
 ### ✨ Contributing ✨
