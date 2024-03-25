@@ -34,7 +34,8 @@ from the ONS SRS team.
     `README` file.*
     * *We recommend reading the [ONS](https://www.ons.gov.uk)'s 
     [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance).*
-    * *You can find a **template analysis repository** in the [UCL-ECHILD organisation](https://github.com/UCL-ECHILD), though you
+    * *You can find a [template analysis repository](https://github.com/UCL-ECHILD/template-analysis-repo) in the
+    [UCL-ECHILD organisation](https://github.com/UCL-ECHILD), though you
     need not use this.*
 1. Please include in your repository a license that permits redistribution of your code, e.g. a
 [MIT License](https://choosealicense.com/licenses/mit/) or
