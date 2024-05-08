@@ -30,13 +30,13 @@ To contibute:
 [code files as outputs](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/gettingyourresearchoutputsapproved#requesting-outputs) 
 from the ONS SRS team.
 1. Make your code available (publicly) in its own repository under your own or your organisation's GitHub account.
+    * *You can find a [template analysis repository](https://github.com/UCL-ECHILD/template-analysis-repo) in the
+    [UCL-ECHILD organisation](https://github.com/UCL-ECHILD), though you
+    need not use this.*
     * *You should provide documentation about your project alongside the code, preferable in the form of a
     `README` file.*
     * *We recommend reading the [ONS](https://www.ons.gov.uk)'s 
     [Quality assurance of code for analysis and research](https://best-practice-and-impact.github.io/qa-of-code-guidance).*
-    * *You can find a [template analysis repository](https://github.com/UCL-ECHILD/template-analysis-repo) in the
-    [UCL-ECHILD organisation](https://github.com/UCL-ECHILD), though you
-    need not use this.*
 1. Please include in your repository a license that permits redistribution of your code, e.g. a
 [MIT License](https://choosealicense.com/licenses/mit/) or
 [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/),
